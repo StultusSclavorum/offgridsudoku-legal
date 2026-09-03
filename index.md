@@ -6,7 +6,7 @@ Privacy Policy and Impressum
 
 ## Privacy Policy
 
-*Last updated: [03.09.2026]*
+*Last updated: 03.09.2026*
 
 OffGrid Sudoku is designed to work entirely on your device. This policy explains what that means in practice.
 
@@ -72,9 +72,9 @@ Information in accordance with §5 ECG (E-Commerce-Gesetz) and §25 Mediengesetz
 
 **Responsible for content:**
 
-[Josip Pintac]
-[Hauptstraße 10]
-[7545] [Neustift bei Güssing]
+Josip Pintac
+Hauptstraße 10
+7545 Neustift bei Güssing
 Austria
 
 **Contact:**
